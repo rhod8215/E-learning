@@ -1,0 +1,57 @@
+body{
+    width:100%;
+    font-family: 'Open sans';
+    height:auto;
+    margin:0;
+}
+
+.section1{
+     background: url(https://www.thinklogicmediagroup.com/wp-content/uploads/slider/cache/2827d9ba769a9e588afe31dd12e77f32/e-elarning-bg.webp), linear-gradient(90deg, black, rgb(10, 7, 58));   
+     background-size: cover;
+     background-blend-mode: overlay;
+     width:100%;
+     margin: 0;
+     padding:7% 10px 7% 10px;
+
+}
+
+p, h1, button{
+    font-family:'Open Sans';
+}
+
+.title1{
+    width:100%;
+    max-width:  800px;
+    margin:auto;
+    text-align: center;
+}
+.title1 h1{
+    color: white;
+    font-size:4.5vw;
+}
+.title1 p{
+    color:white;
+    font-size: 20px
+}
+.button-view-all-cont{
+    width:100%;
+    text-align: center;
+}
+.button-view-all-cont button{
+    color:black;
+    background-color: #f2d41a;
+    padding: 10px 30px 10px 30px;
+    font-size:20px;
+    font-weight:500;
+    border: none;
+    border-radius: 10px;
+}
+.g_title{
+    font-weight:600;
+    font-size:4.3vw;
+    color:black; 
+}
+
+.crossword_m_sec{
+    text-align: right;
+}
